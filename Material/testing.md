@@ -1,4 +1,4 @@
 
-<a href="Material/frontendTesting.md">**Frontend Testing**</a>
+<a href="frontendTesting.md">**Frontend Testing**</a>
 
-<a href="Material/backendTesting.md">**Backend Testing**</a>
+<a href="backendTesting.md">**Backend Testing**</a>
